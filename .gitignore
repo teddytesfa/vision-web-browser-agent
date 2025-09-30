@@ -1,0 +1,11 @@
+# Ignore everything
+.agent-course-venv
+.DS_Store
+.env
+
+# But not these files
+!unit2/
+!.gitignore
+!README.md
+!vision_web_browser.py
+
