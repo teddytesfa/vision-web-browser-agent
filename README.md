@@ -30,8 +30,8 @@ An intelligent AI agent that combines vision capabilities with web browser autom
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd <repo-directory>
+git clone https://github.com/teddytesfa/vision-web-browser-agent.git
+cd vision-web-browser-agent
 ```
 
 2. Install required dependencies:
